@@ -2,6 +2,8 @@
 
 >[Byeot.github.io](https://Byeot.github.io)
 
+웹 포트폴리오를 코르도바 환경으로 옮겼습니다. 
+
 <br>
 
 
