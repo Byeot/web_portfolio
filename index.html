@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+
+        
+        <!-- jquery mobile -->
+        <title>Portfolio</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css"/>
+        <script src="js/jquery-1.11.1.min.js"></script>
+        <script src="js/jquery.mobile-1.4.5.min.js"></script>
+    
+    </head>
+
+
+    <body>
+        <div data-role="page">
+            <div data-role="header">
+                <h1 style="margin: 0;">Developer 양지현의 포트폴리오 입니다.</h1>
+            </div>
+        
+            <div data-role="content" id="content" >
+                <div data-role="tabs" id="tabs">
+                    <div data-role="navbar">
+                        <ul>
+                            <li><a href="#AboutMe" data-ajax="false">aboutme</a></li>
+                            <li><a href="#Archiving-box" data-ajax="false">Archiving-box</a></li>
+                            <li><a href="#Projects-box" data-ajax="false">Projects-box</a></li>
+                        </ul>
+                    </div>
+            
+            
+                    <div id="AboutMe" class="ui-body-d ui-content" text-align="center">
+                        <h2>Abount Me</h2>
+                        <img id="profile-picture" src="/images/profile.jpg">  
+                        <p>안녕하세요! 세상에 도움이 되는 개발을 하고 싶은 개발자 양지현입니다.<br>
+                            어릴때 부터 호기심이 많은 성격에 만들어 보았던 간단한 계산기 프로그램으로<br> 무언가를 만드는것의 재미를 느끼게 되었고 
+                            그때부터 개발자를 꿈꾸게 되었습니다.<br>
+                            계속해서 완성도 높은 코드,그리고 완성도 높은 UI를 위해 매일 고뇌하는 사람이 되도록 하겠습니다.잘 부탁드립니다.
+                        </p>
+            
+                        <h2>Skils</h2>
+                        <p id="skill-content">
+                            <i class="fa-brands fa-html5 fa-5x"></i>
+                            <i class="fa-brands fa-js fa-5x"></i>
+                            <i class="fa-brands fa-css3-alt fa-5x"></i>
+                            <i class="fa-brands fa-node-js fa-5x"></i>
+                            <i class="fa-brands fa-java fa-5x"></i>
+                        </p>
+                        
+                    </div>
+            
+            
+            
+            
+            
+                    <div id="Archiving-box">
+                        <div class="Archiving-box">
+                            <h2 class="Archiving">Archving</h2>
+                        
+                            <div class="Arc-box">
+                                <div class="row">
+                                    <div class="col-sm-6">
+
+                                        <div class="work1">
+                                            <img class="Archiving-img" src="/images/git-hub1.png" alt="">
+                                            <div class="Archiving-url"><a href="github.com/Byeot">github.com/Byeot</a></div>
+                                            <div class="Archving-description">
+                                                <p>
+                                                    <b>소스 코드 저장소</b> 입니다
+                                                    <ul>
+                                                        <li class="arc-content">과거 프로젝트,프로그램,앱의 소스코드</li>
+                                                        <li class="arc-content">혼자서 코딩 연습을 위해 끄적이던 소스코드</li>
+                                                        <li class="arc-content">수강한 전공들의 코딩 과제 소스 코드</li>
+                                                    </ul>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="col-sm-6">
+
+                                        <div class="work2">
+                                            <img class="Archiving-img" src="/images/tistory1.png" alt="">
+                                            <div class="Archiving-url"><a href="https://byeot95.tistory.com">https://byeot95.tistory.com</a></div>
+                                            
+                                            <div class="Archving-description">
+                                                <p>
+                                                    <b>공부 및 지식 공유 목적 블로그</b> 입니다
+                                                    <ul>
+                                                        <li class="arc-content">공부한 것을 진정한 나의 것으로 만들기 위한 기록</li>
+                                                        <li class="arc-content">배운 전공 수업들의 내용 복습 겸 정리</li>
+                                                        <li class="arc-content">지식 공유를 통한 선한 영향력 행사</li>
+                                                    </ul>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                
+                            </div>   
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-"></div>
+
+                    <div id="Projects-box">
+            
+                        <div class="Projects-box" id="Projects-box"> 
+                            <h2 class="Project-title">Projects</h2>
+
+                            <div class="row">
+                                <div class="col-sm-6">
+
+                                    <div class="pro-sbox" id="artil">
+
+                                        <div class="row">
+                                            <div class="col-sm-6">   
+                                            <img class="thumbnail" src="/images/1.png">
+                                            </div>
+
+                                            <div class="col-sm-6">
+                                                <div class="pro-info">
+                                                    <h3 class="article-name">프로젝트1</h3>
+                                                    <p>곧 진행하게 될 프로젝트</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>     
+
+                                </div>
+
+                                <div class="col-sm-6">
+
+                                    <div class="pro-sbox" id="artil">
+
+                                        <div class="row">
+                                            <div class="col-sm-6">   
+                                            <img class="thumbnail" src="/images/1.png">
+                                            </div>
+
+                                            <div class="col-sm-6">
+                                                <div class="pro-info">
+                                                    <h3 class="article-name">프로젝트1</h3>
+                                                    <p>곧 진행하게 될 프로젝트</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>     
+
+                                </div>
+
+                            </div>
+
+
+
+                
+            
+            
+                    </div>
+            
+            
+            
+            
+                </div>
+            </div>
+        
+
+        </div>
+   </body> 
+        
+
+</html>
