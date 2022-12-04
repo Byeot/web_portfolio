@@ -17,6 +17,7 @@ html/css 구조 연습겸 만들어본 웹 포트폴리오 사이트
 # 웹 포트폴리오 사이트
 
 ![image](https://user-images.githubusercontent.com/94339420/204197238-ae7358ab-3c35-4d5b-bcad-07436d438197.png)
+![image](https://user-images.githubusercontent.com/94339420/205490047-1c893cc9-1733-4820-836a-4f056f34d255.png)
 
 
 # 코르도바 실행
