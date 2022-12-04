@@ -29,8 +29,9 @@ html/css 구조 연습겸 만들어본 웹 포트폴리오 사이트
 
 
 <img src="https://user-images.githubusercontent.com/94339420/205491575-363c75b3-f519-447e-a41f-eb3e5c59382a.png" width="30%" align="left">
-<img src="https://user-images.githubusercontent.com/94339420/205490447-fe794298-f2f2-4275-924b-3881c766f647.png" width="30%" align="left">
+
 <img src="https://user-images.githubusercontent.com/94339420/205490435-0a2905ab-8eff-4cdb-8903-479d71d41c3a.png" width="30%" align="left">
 
+<img src="https://user-images.githubusercontent.com/94339420/205490447-fe794298-f2f2-4275-924b-3881c766f647.png" width="30%" align="left">
 
 
