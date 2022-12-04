@@ -19,14 +19,15 @@ html/css 구조 연습겸 만들어본 웹 포트폴리오 사이트
 ![image](https://user-images.githubusercontent.com/94339420/204197238-ae7358ab-3c35-4d5b-bcad-07436d438197.png)
 ![image](https://user-images.githubusercontent.com/94339420/205490047-1c893cc9-1733-4820-836a-4f056f34d255.png)
 ![image](https://user-images.githubusercontent.com/94339420/205490095-09491d93-5481-4e4f-a424-e0e4d9aaf83e.png)
-![image](https://user-images.githubusercontent.com/94339420/205490138-2e0b533e-1ac9-4c21-9a23-6290f46a3d07.png)
+
 
 
 
 
 # 코르도바 실행
 
-![image](https://user-images.githubusercontent.com/94339420/204436013-7052e057-1686-47ca-aa34-181226b4562a.png)
+![image](https://user-images.githubusercontent.com/94339420/205490419-70c6741e-5784-4642-ac2f-7f36763d8fa5.png)
+![image](https://user-images.githubusercontent.com/94339420/205490435-0a2905ab-8eff-4cdb-8903-479d71d41c3a.png)
+![image](https://user-images.githubusercontent.com/94339420/205490447-fe794298-f2f2-4275-924b-3881c766f647.png)
 
-![image](https://user-images.githubusercontent.com/94339420/204437500-8c423147-e7cc-4cac-b646-fab639a37186.png)
 
