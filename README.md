@@ -27,9 +27,9 @@ html/css 구조 연습겸 만들어본 웹 포트폴리오 사이트
 # 코르도바 실행
 
 
-<img src="https://user-images.githubusercontent.com/94339420/205490419-70c6741e-5784-4642-ac2f-7f36763d8fa5.png" width="30%" align="center">
-<img src="https://user-images.githubusercontent.com/94339420/205490435-0a2905ab-8eff-4cdb-8903-479d71d41c3a.png" width="30%" align="center">
-<img src="https://user-images.githubusercontent.com/94339420/205490447-fe794298-f2f2-4275-924b-3881c766f647.png" width="30%" align="center">
+<img src="https://user-images.githubusercontent.com/94339420/205490419-70c6741e-5784-4642-ac2f-7f36763d8fa5.png" width="30%" align="right">
+<img src="https://user-images.githubusercontent.com/94339420/205490435-0a2905ab-8eff-4cdb-8903-479d71d41c3a.png" width="30%" align="right">
+<img src="https://user-images.githubusercontent.com/94339420/205490447-fe794298-f2f2-4275-924b-3881c766f647.png" width="30%" align="right">
 
 
 
