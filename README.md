@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/94339420/204197238-ae7358ab-3c35-4d5b-bcad-07436d438197.png)
 
 
-# 모바일로 옮긴화면
+# JQqury 모바일로 변경후 코르도바 실행
 
 ![image](https://user-images.githubusercontent.com/94339420/204436013-7052e057-1686-47ca-aa34-181226b4562a.png)
 
