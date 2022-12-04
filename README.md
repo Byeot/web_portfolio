@@ -1,6 +1,6 @@
 # web_portfolio
 
->[Byeot.github.io](https://Byeot.github.io)
+[Byeot.github.io](https://Byeot.github.io)
 
 순수 html/css 구조를 연습해본 웹 포트폴리오 사이트
 
